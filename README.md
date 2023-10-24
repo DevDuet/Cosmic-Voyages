@@ -1,6 +1,6 @@
 # Cosmic Voyages 🚀
 
-Welcome to Cosmic Voyages! This portfolio project is dedicated to celebrating the lives and achievements of astronauts who have explored the vastness of space and offering stunning visuals of planets, space missions, and their incredible adventures.
+Welcome to Cosmic Voyages ! This portfolio project is dedicated to celebrating the lives and achievements of astronauts who have explored the vastness of space and offering stunning visuals of planets, space missions, and their incredible adventures.
 
 ## Astronaut Profiles
 
