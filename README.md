@@ -14,4 +14,4 @@ Immerse yourself in breathtaking images and visual representations of planets, s
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/cosmic-voyages.git
+   git clone https://github.com/DevDuet/Cosmic-Voyages.git
